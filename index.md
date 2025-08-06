@@ -1,9 +1,16 @@
 ---
 layout: page
-title: Home
-permalink: /
+title: About Me
 ---
 
-## Welcome to My Site
+# About Me
 
-This is the home page. Add a welcome message or a brief intro to what your site is about.
+Hi, I'm Avik Dwivedi! I'm passionate about music, basketball, martial arts, and coding. This site is a collection of my interests and personal projects.
+
+- 🎶 Hindustani classical music performer  
+- 🏀 Basketball analytics enthusiast  
+- 🥋 Martial arts practitioner  
+- 💻 Learning to build with Jekyll and GitHub Pages
+
+Welcome to my site!
+
