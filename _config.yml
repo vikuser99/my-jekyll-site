@@ -9,3 +9,9 @@ theme: minima
 
 plugins:
   - jekyll-feed
+
+  header_pages:
+  - index.md
+  - basketball.md
+  - hindustani-music.md
+
