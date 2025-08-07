@@ -5,11 +5,6 @@ title: About Me
 
 # About Me
 
----
-layout: page
-title: About Me
-permalink: /
----
 
 # 👋 Hi, I'm Avik Dwivedi
 
