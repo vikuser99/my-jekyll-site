@@ -1,4 +1,10 @@
 ---
+layout: default
+title: "🏀 Basketball"
+photo: "/assets/images/basketball-journey.jpg"
+---
+
+---
 layout: page
 title: Basketball
 permalink: /basketball/
